@@ -1,0 +1,32 @@
+# Every Monday 01:30 UTC (08:30 in Jakarta, after the week closed at midnight): add the weeks that finished.
+# Uses only the workflow's own GITHUB_TOKEN, limited to this repository.
+name: Weekly record
+
+on:
+  schedule:
+    - cron: '30 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-record
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/fetch-weekly.mjs
+      - name: Commit new weeks
+        run: |
+          git add weekly
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Weekly record: $(git diff --cached --name-only -- 'weekly/*.json' | xargs -n1 basename | sed 's/.json//' | paste -sd ', ' -)"
+          git push

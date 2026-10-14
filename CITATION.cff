@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Digimasi security research: weekly sensor records"
+type: dataset
+authors:
+  - name: "Digimasi"
+    website: "https://digimasi.com"
+  - family-names: "Febrian"
+    given-names: "Aldo"
+repository-code: "https://github.com/aldofebrian-af/digimasi-research"
+url: "https://digimasi.com/en/research/"
+license: CC-BY-4.0
+date-released: "2026-10-14"
+keywords:
+  - honeypot
+  - web scanning
+  - threat intelligence
+  - Indonesia
