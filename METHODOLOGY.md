@@ -45,6 +45,7 @@ A problem we find is reported privately to its developers first, through the pro
 ## How we publish results
 
 - We publish totals, rankings and patterns, with the date range of the data.
+- From the week of 19 October 2026, WordPress pingback calls are no longer counted as login guesses.
 - Passwords that attackers tried may be published as a ranking, because they come from the attackers' guess lists, not from anyone's account.
 - Our data comes from one website. The results describe what a company website like ours experiences, not the whole internet.
 
