@@ -1,5 +1,7 @@
 # Digimasi security research
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23466873.svg)](https://doi.org/10.5281/zenodo.23466873)
+
 Open data from the passive sensor on [digimasi.com](https://digimasi.com/en/research/): what automated programs look for on a company website, week by week.
 
 digimasi.com is a static company website. It has no WordPress, no `.env` file, no `.git` folder and no admin panel, yet bots ask for them every day. The sensor records those requests (and only those; ordinary visits are never recorded), and this repository publishes the weekly summary.
@@ -30,6 +32,15 @@ IP addresses, passwords, request bodies, browser identifiers, raw sensor records
 ## Limits
 
 The data comes from one website in Indonesia. It describes what a company website like ours experiences, not the whole internet. Countries and networks are where the requesting servers are, not necessarily where the people behind them are.
+
+## How to cite
+
+Febrian, A. (Digimasi). *Digimasi security research: weekly sensor records* [Data set]. Zenodo.
+https://doi.org/10.5281/zenodo.23466873
+
+That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.0.0:
+[10.5281/zenodo.23466874](https://doi.org/10.5281/zenodo.23466874)). [`CITATION.cff`](CITATION.cff) has the same
+details for reference managers.
 
 ## Licence
 
