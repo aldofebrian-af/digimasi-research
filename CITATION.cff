@@ -16,9 +16,9 @@ abstract: >-
   that has none of them. Totals, categories, most requested paths, source networks and countries, and stock usernames
   guessed. No IP addresses, passwords or raw records are published.
 license: CC-BY-4.0
-date-released: "2026-10-14"
+version: "1.0.0"
+date-released: "2026-10-19"
 keywords:
-  - honeypot
   - web scanning
   - internet background noise
   - threat intelligence

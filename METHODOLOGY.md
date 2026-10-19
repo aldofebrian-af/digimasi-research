@@ -2,7 +2,7 @@
 
 The same text as https://digimasi.com/en/research/methodology/, kept here with the data it describes.
 
-Last updated: 14 October 2026.
+Last updated: 19 October 2026.
 
 This page explains where our research data comes from, the limits we keep to, and how we publish the results.
 
@@ -19,6 +19,8 @@ We record a request only when two things are true: the website answered "not fou
 
 Ordinary visits are not recorded this way, including mistyped addresses. Records are deleted after 90 days.
 
+The sensor has been recording since 12 October 2026. All dates and times in our research are Jakarta time (UTC+7).
+
 ## What we never do
 
 - Scan, test or try to log in to systems that are not ours.
@@ -30,7 +32,7 @@ Ordinary visits are not recorded this way, including mistyped addresses. Records
 
 Addresses that clearly attack us are reported to [AbuseIPDB](https://www.abuseipdb.com), the public database administrators around the world use to block attackers.
 
-We report only an address that, within 24 hours, asked for five or more sensitive files that do not exist on this website, or sent a login guess. One stray request is not reported. A report holds the IP address, the time and examples of the addresses requested. Guessed passwords and usernames are not sent.
+We report only an address that, within 24 hours, asked for five or more sensitive files that do not exist on this website, or sent a login guess. One stray file request is not reported; a single login guess is. A report holds the IP address, the time and examples of the addresses requested. Guessed passwords and usernames are not sent.
 
 ## Open-source software review
 

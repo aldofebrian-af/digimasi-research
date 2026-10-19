@@ -35,7 +35,7 @@ The data comes from one website in Indonesia. It describes what a company websit
 
 ## How to cite
 
-Febrian, A. (Digimasi). *Digimasi security research: weekly sensor records* [Data set]. Zenodo.
+Febrian, A. (2026). *Digimasi security research: weekly sensor records* (Version 1.0.0) [Data set]. Zenodo.
 https://doi.org/10.5281/zenodo.23466873
 
 That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.0.0:
@@ -44,7 +44,7 @@ details for reference managers.
 
 ## Licence
 
-[CC BY 4.0](LICENSE): you may share and adapt the data for any purpose, including commercially, as long as you credit "Digimasi (digimasi.com)" and link to this repository.
+[CC BY 4.0](LICENSE): you may share and adapt the data for any purpose, including commercially, as long as you credit "Febrian, A. (2026), Digimasi security research: weekly sensor records, Digimasi" and link to this repository or the DOI.
 
 ## Updates
 
