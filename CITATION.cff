@@ -3,16 +3,23 @@ message: "If you use this data, please cite it as below."
 title: "Digimasi security research: weekly sensor records"
 type: dataset
 authors:
-  - name: "Digimasi"
-    website: "https://digimasi.com"
   - family-names: "Febrian"
     given-names: "Aldo"
+    affiliation: "Digimasi"
+    website: "https://digimasi.com"
 repository-code: "https://github.com/aldofebrian-af/digimasi-research"
 url: "https://digimasi.com/en/research/"
+abstract: >-
+  Weekly summaries from a passive sensor on digimasi.com, a static company website in Indonesia: what automated
+  programs look for (secret configuration files, code history folders, WordPress, cloud keys, login pages) on a site
+  that has none of them. Totals, categories, most requested paths, source networks and countries, and stock usernames
+  guessed. No IP addresses, passwords or raw records are published.
 license: CC-BY-4.0
 date-released: "2026-10-14"
 keywords:
   - honeypot
   - web scanning
+  - internet background noise
   - threat intelligence
+  - measurement
   - Indonesia

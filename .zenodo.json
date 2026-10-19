@@ -1,0 +1,16 @@
+{
+  "title": "Digimasi security research: weekly sensor records",
+  "upload_type": "dataset",
+  "description": "<p>Weekly summaries from a passive sensor on <a href=\"https://digimasi.com\">digimasi.com</a>, a static company website in Indonesia: what automated programs look for (secret configuration files, code history folders, WordPress, cloud keys, login pages) on a site that has none of them.</p><p>Each finished week (Monday to Sunday, Jakarta time) is published once as JSON and Markdown: number of requests, source addresses and countries, categories of what was looked for, the most requested paths, source networks and countries, and stock usernames guessed. No IP addresses, passwords, request bodies or raw sensor records are published.</p><p>Method and limits: <a href=\"https://digimasi.com/en/research/methodology/\">digimasi.com/en/research/methodology/</a>. The data comes from one website in Indonesia; it describes what a company website like this one experiences, not the whole internet.</p>",
+  "creators": [
+    { "name": "Febrian, Aldo", "affiliation": "Digimasi" }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["honeypot", "web scanning", "internet background noise", "threat intelligence", "measurement", "Indonesia"],
+  "related_identifiers": [
+    { "identifier": "https://digimasi.com/en/research/", "relation": "isDocumentedBy", "resource_type": "other" },
+    { "identifier": "https://github.com/aldofebrian-af/digimasi-research", "relation": "isSupplementTo", "resource_type": "dataset" }
+  ],
+  "language": "eng"
+}
