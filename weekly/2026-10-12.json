@@ -1,0 +1,207 @@
+{
+  "start": "2026-10-12",
+  "end": "2026-10-18",
+  "probes": 1744,
+  "sources": 91,
+  "countries": 29,
+  "loginGuesses": 16,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 1141,
+      "sources": 39
+    },
+    {
+      "name": "php",
+      "n": 198,
+      "sources": 24
+    },
+    {
+      "name": "wordpress",
+      "n": 197,
+      "sources": 50
+    },
+    {
+      "name": "git",
+      "n": 76,
+      "sources": 20
+    },
+    {
+      "name": "config",
+      "n": 70,
+      "sources": 19
+    },
+    {
+      "name": "cloud-keys",
+      "n": 41,
+      "sources": 13
+    },
+    {
+      "name": "framework",
+      "n": 13,
+      "sources": 5
+    },
+    {
+      "name": "admin-panel",
+      "n": 8,
+      "sources": 4
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 86,
+      "sources": 36
+    },
+    {
+      "name": "/.env.local",
+      "n": 42,
+      "sources": 16
+    },
+    {
+      "name": "/.env.backup",
+      "n": 38,
+      "sources": 14
+    },
+    {
+      "name": "/.env.production",
+      "n": 35,
+      "sources": 11
+    },
+    {
+      "name": "/.env.bak",
+      "n": 34,
+      "sources": 15
+    },
+    {
+      "name": "/.env.save",
+      "n": 31,
+      "sources": 11
+    },
+    {
+      "name": "/.env.dev",
+      "n": 30,
+      "sources": 12
+    },
+    {
+      "name": "/.env.old",
+      "n": 29,
+      "sources": 10
+    },
+    {
+      "name": "/.git/HEAD",
+      "n": 29,
+      "sources": 2
+    },
+    {
+      "name": "/.env.staging",
+      "n": 28,
+      "sources": 10
+    }
+  ],
+  "networks": [
+    {
+      "name": "Virtualine Technologies",
+      "n": 846,
+      "sources": 3
+    },
+    {
+      "name": "Google LLC",
+      "n": 338,
+      "sources": 14
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 133,
+      "sources": 6
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 64,
+      "sources": 17
+    },
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 56,
+      "sources": 4
+    },
+    {
+      "name": "Microsoft Corporation",
+      "n": 45,
+      "sources": 2
+    },
+    {
+      "name": "Feo Prest SRL",
+      "n": 37,
+      "sources": 1
+    },
+    {
+      "name": "Aliyun Computing Co.LTD",
+      "n": 31,
+      "sources": 1
+    },
+    {
+      "name": "Colocatel Datacenter",
+      "n": 26,
+      "sources": 1
+    },
+    {
+      "name": "Secure Internet Hong Kong Operations",
+      "n": 26,
+      "sources": 1
+    }
+  ],
+  "countryList": [
+    {
+      "name": "DE",
+      "n": 950,
+      "sources": 14
+    },
+    {
+      "name": "NL",
+      "n": 144,
+      "sources": 19
+    },
+    {
+      "name": "US",
+      "n": 119,
+      "sources": 10
+    },
+    {
+      "name": "BE",
+      "n": 112,
+      "sources": 5
+    },
+    {
+      "name": "PL",
+      "n": 105,
+      "sources": 4
+    },
+    {
+      "name": "FI",
+      "n": 57,
+      "sources": 3
+    },
+    {
+      "name": "CL",
+      "n": 40,
+      "sources": 1
+    },
+    {
+      "name": "CN",
+      "n": 31,
+      "sources": 1
+    },
+    {
+      "name": "IN",
+      "n": 26,
+      "sources": 2
+    },
+    {
+      "name": "SG",
+      "n": 26,
+      "sources": 4
+    }
+  ],
+  "users": []
+}
