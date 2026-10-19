@@ -10,8 +10,9 @@ digimasi.com is a static company website. It has no WordPress, no `.env` file, n
 
 | Path | What it is |
 |---|---|
-| [`weekly/`](weekly/) | One summary per finished week (Monday to Sunday, Jakarta time, UTC+7), as `<monday>.json` and a readable `<monday>.md` |
+| [`weekly/`](weekly/) | One summary per finished week (Monday to Sunday, Jakarta time, UTC+7), as `<monday>.json` and a readable `<monday>.md`; the fields are explained in [`weekly/README.md`](weekly/README.md) |
 | [`METHODOLOGY.md`](METHODOLOGY.md) | How the data is collected, and what we never do |
+| [`PATTERNS.md`](PATTERNS.md) | What counts as a probe: the categories, the recording rules, and how a login guess is detected |
 | [`SECURITY.md`](SECURITY.md) | How to report a security problem to us |
 | [`CITATION.cff`](CITATION.cff) | How to cite this data |
 
