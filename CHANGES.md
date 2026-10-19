@@ -4,6 +4,10 @@ What changed in this data set and how it is counted, newest first. Dates are Jak
 
 ## 2026-10-19
 
+### Author ORCID
+
+`CITATION.cff` and `.zenodo.json` now carry the author's ORCID iD: https://orcid.org/0009-0005-9001-1946.
+
 ### Login guesses: WordPress pingbacks no longer count (from the week of 2026-10-19)
 
 A login guess is a request that posted a username or password to a login page that does not exist here: a login form, or a WordPress XML-RPC call. Until now every XML-RPC call carrying two text values was counted as a login guess. A WordPress pingback (`pingback.ping`) has that shape too, but its two values are web addresses, not a username and a password.
