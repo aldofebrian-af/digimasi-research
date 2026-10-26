@@ -6,6 +6,7 @@ What changed in this data set and how it is counted, newest first. Dates are Jak
 
 - New week: `weekly/2026-10-19.json` and `.md` (19 to 25 October 2026). This is the first week counted under the login-guess rule described under 2026-10-19 below.
 - `CITATION.cff`: version 1.1.0, released 2026-10-26.
+- New Zenodo DOI: from v1.1.0 the data set is cited as 10.5281/zenodo.23655270 (all versions; v1.1.0 itself is 10.5281/zenodo.23655271). v1.0.0 stays at 10.5281/zenodo.23466874, a separate record made before the repository was moved.
 - The Zenodo record's keywords now match `.zenodo.json` and `CITATION.cff` (web scanning, internet background noise, threat intelligence, measurement, Indonesia).
 
 ## 2026-10-19

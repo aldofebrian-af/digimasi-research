@@ -1,6 +1,6 @@
 # Digimasi security research
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23466873.svg)](https://doi.org/10.5281/zenodo.23466873)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23655270.svg)](https://doi.org/10.5281/zenodo.23655270)
 
 Open data from the passive sensor on [digimasi.com](https://digimasi.com/en/research/): what automated programs look for on a company website, week by week.
 
@@ -37,11 +37,15 @@ The data comes from one website in Indonesia. It describes what a company websit
 ## How to cite
 
 Febrian, A. (2026). *Digimasi security research: weekly sensor records* (Version 1.1.0) [Data set]. Zenodo.
-https://doi.org/10.5281/zenodo.23466873
+https://doi.org/10.5281/zenodo.23655270
 
-That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.0.0:
-[10.5281/zenodo.23466874](https://doi.org/10.5281/zenodo.23466874)). [`CITATION.cff`](CITATION.cff) has the same
+That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.1.0:
+[10.5281/zenodo.23655271](https://doi.org/10.5281/zenodo.23655271)). [`CITATION.cff`](CITATION.cff) has the same
 details for reference managers.
+
+The first release, v1.0.0 (the week of 12 October 2026), is archived as a separate Zenodo record, made before this
+repository was moved: [10.5281/zenodo.23466874](https://doi.org/10.5281/zenodo.23466874). Its week is also included in
+every later version.
 
 ## Licence
 
