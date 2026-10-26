@@ -1,0 +1,212 @@
+{
+  "start": "2026-10-19",
+  "end": "2026-10-25",
+  "probes": 1809,
+  "sources": 137,
+  "countries": 30,
+  "loginGuesses": 16,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 936,
+      "sources": 50
+    },
+    {
+      "name": "wordpress",
+      "n": 395,
+      "sources": 72
+    },
+    {
+      "name": "git",
+      "n": 150,
+      "sources": 42
+    },
+    {
+      "name": "php",
+      "n": 112,
+      "sources": 20
+    },
+    {
+      "name": "config",
+      "n": 100,
+      "sources": 23
+    },
+    {
+      "name": "cloud-keys",
+      "n": 55,
+      "sources": 20
+    },
+    {
+      "name": "backup",
+      "n": 36,
+      "sources": 6
+    },
+    {
+      "name": "admin-panel",
+      "n": 24,
+      "sources": 6
+    },
+    {
+      "name": "framework",
+      "n": 1,
+      "sources": 1
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 62,
+      "sources": 45
+    },
+    {
+      "name": "/.git/config",
+      "n": 52,
+      "sources": 34
+    },
+    {
+      "name": "/.env.local",
+      "n": 34,
+      "sources": 30
+    },
+    {
+      "name": "/.env.backup",
+      "n": 30,
+      "sources": 22
+    },
+    {
+      "name": "/.env.production",
+      "n": 28,
+      "sources": 23
+    },
+    {
+      "name": "/xmlrpc.php",
+      "n": 28,
+      "sources": 21
+    },
+    {
+      "name": "/.env.development",
+      "n": 26,
+      "sources": 22
+    },
+    {
+      "name": "/.env.old",
+      "n": 26,
+      "sources": 22
+    },
+    {
+      "name": "/.env.example",
+      "n": 25,
+      "sources": 24
+    },
+    {
+      "name": "/.env.save",
+      "n": 24,
+      "sources": 21
+    }
+  ],
+  "networks": [
+    {
+      "name": "Google LLC",
+      "n": 612,
+      "sources": 28
+    },
+    {
+      "name": "Virtualine Technologies",
+      "n": 325,
+      "sources": 5
+    },
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 273,
+      "sources": 11
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 185,
+      "sources": 8
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 77,
+      "sources": 24
+    },
+    {
+      "name": "Segna Technologies Virginia",
+      "n": 42,
+      "sources": 1
+    },
+    {
+      "name": "1337 Services GmbH",
+      "n": 36,
+      "sources": 2
+    },
+    {
+      "name": "TechTies Inc.",
+      "n": 24,
+      "sources": 4
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "n": 21,
+      "sources": 4
+    },
+    {
+      "name": "Amazon Data Services Osaka",
+      "n": 20,
+      "sources": 1
+    }
+  ],
+  "countryList": [
+    {
+      "name": "DE",
+      "n": 376,
+      "sources": 11
+    },
+    {
+      "name": "NL",
+      "n": 347,
+      "sources": 22
+    },
+    {
+      "name": "US",
+      "n": 270,
+      "sources": 30
+    },
+    {
+      "name": "BE",
+      "n": 238,
+      "sources": 10
+    },
+    {
+      "name": "PL",
+      "n": 185,
+      "sources": 8
+    },
+    {
+      "name": "IT",
+      "n": 100,
+      "sources": 3
+    },
+    {
+      "name": "JP",
+      "n": 59,
+      "sources": 2
+    },
+    {
+      "name": "SG",
+      "n": 57,
+      "sources": 12
+    },
+    {
+      "name": "FR",
+      "n": 36,
+      "sources": 2
+    },
+    {
+      "name": "CA",
+      "n": 22,
+      "sources": 3
+    }
+  ],
+  "users": []
+}
