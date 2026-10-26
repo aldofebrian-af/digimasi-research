@@ -2,6 +2,12 @@
 
 What changed in this data set and how it is counted, newest first. Dates are Jakarta time (UTC+7).
 
+## 2026-10-26: version 1.1.0
+
+- New week: `weekly/2026-10-19.json` and `.md` (19 to 25 October 2026). This is the first week counted under the login-guess rule described under 2026-10-19 below.
+- `CITATION.cff`: version 1.1.0, released 2026-10-26.
+- The Zenodo record's keywords now match `.zenodo.json` and `CITATION.cff` (web scanning, internet background noise, threat intelligence, measurement, Indonesia).
+
 ## 2026-10-19
 
 ### Author ORCID

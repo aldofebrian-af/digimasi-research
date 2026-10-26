@@ -36,7 +36,7 @@ The data comes from one website in Indonesia. It describes what a company websit
 
 ## How to cite
 
-Febrian, A. (2026). *Digimasi security research: weekly sensor records* (Version 1.0.0) [Data set]. Zenodo.
+Febrian, A. (2026). *Digimasi security research: weekly sensor records* (Version 1.1.0) [Data set]. Zenodo.
 https://doi.org/10.5281/zenodo.23466873
 
 That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.0.0:
