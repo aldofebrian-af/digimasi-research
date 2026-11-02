@@ -1,0 +1,212 @@
+{
+  "start": "2026-10-26",
+  "end": "2026-11-01",
+  "probes": 2976,
+  "sources": 179,
+  "countries": 29,
+  "loginGuesses": 9,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 986,
+      "sources": 66
+    },
+    {
+      "name": "wordpress",
+      "n": 936,
+      "sources": 100
+    },
+    {
+      "name": "php",
+      "n": 313,
+      "sources": 36
+    },
+    {
+      "name": "git",
+      "n": 253,
+      "sources": 63
+    },
+    {
+      "name": "config",
+      "n": 221,
+      "sources": 40
+    },
+    {
+      "name": "cloud-keys",
+      "n": 96,
+      "sources": 31
+    },
+    {
+      "name": "backup",
+      "n": 72,
+      "sources": 7
+    },
+    {
+      "name": "admin-panel",
+      "n": 56,
+      "sources": 14
+    },
+    {
+      "name": "framework",
+      "n": 43,
+      "sources": 14
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 89,
+      "sources": 55
+    },
+    {
+      "name": "/.git/config",
+      "n": 83,
+      "sources": 50
+    },
+    {
+      "name": "/index.php",
+      "n": 54,
+      "sources": 5
+    },
+    {
+      "name": "/.env.local",
+      "n": 51,
+      "sources": 38
+    },
+    {
+      "name": "/.env.backup",
+      "n": 47,
+      "sources": 35
+    },
+    {
+      "name": "/.env.bak",
+      "n": 45,
+      "sources": 34
+    },
+    {
+      "name": "/.env.production",
+      "n": 41,
+      "sources": 33
+    },
+    {
+      "name": "/.env.save",
+      "n": 38,
+      "sources": 28
+    },
+    {
+      "name": "/.aws/credentials",
+      "n": 35,
+      "sources": 24
+    },
+    {
+      "name": "/.env.old",
+      "n": 35,
+      "sources": 27
+    }
+  ],
+  "networks": [
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 1000,
+      "sources": 22
+    },
+    {
+      "name": "Google LLC",
+      "n": 628,
+      "sources": 30
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 320,
+      "sources": 10
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 221,
+      "sources": 37
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "n": 140,
+      "sources": 14
+    },
+    {
+      "name": "M247 LTD Paris Infrastructure",
+      "n": 90,
+      "sources": 4
+    },
+    {
+      "name": "TechTies Inc.",
+      "n": 68,
+      "sources": 6
+    },
+    {
+      "name": "LIGHT NODE LIMITED",
+      "n": 60,
+      "sources": 1
+    },
+    {
+      "name": "Virtualine Technologies",
+      "n": 53,
+      "sources": 3
+    },
+    {
+      "name": "Aliyun Computing Co.LTD",
+      "n": 42,
+      "sources": 2
+    }
+  ],
+  "countryList": [
+    {
+      "name": "NL",
+      "n": 1100,
+      "sources": 32
+    },
+    {
+      "name": "US",
+      "n": 399,
+      "sources": 34
+    },
+    {
+      "name": "PL",
+      "n": 327,
+      "sources": 10
+    },
+    {
+      "name": "FR",
+      "n": 206,
+      "sources": 9
+    },
+    {
+      "name": "SG",
+      "n": 151,
+      "sources": 22
+    },
+    {
+      "name": "BE",
+      "n": 126,
+      "sources": 5
+    },
+    {
+      "name": "DE",
+      "n": 104,
+      "sources": 10
+    },
+    {
+      "name": "CA",
+      "n": 83,
+      "sources": 7
+    },
+    {
+      "name": "BR",
+      "n": 82,
+      "sources": 5
+    },
+    {
+      "name": "TH",
+      "n": 60,
+      "sources": 5
+    }
+  ],
+  "users": []
+}
