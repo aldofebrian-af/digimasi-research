@@ -1,0 +1,212 @@
+{
+  "start": "2026-11-02",
+  "end": "2026-11-08",
+  "probes": 1988,
+  "sources": 121,
+  "countries": 21,
+  "loginGuesses": 0,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 967,
+      "sources": 54
+    },
+    {
+      "name": "wordpress",
+      "n": 369,
+      "sources": 62
+    },
+    {
+      "name": "php",
+      "n": 171,
+      "sources": 24
+    },
+    {
+      "name": "git",
+      "n": 152,
+      "sources": 45
+    },
+    {
+      "name": "config",
+      "n": 120,
+      "sources": 22
+    },
+    {
+      "name": "backup",
+      "n": 86,
+      "sources": 9
+    },
+    {
+      "name": "cloud-keys",
+      "n": 58,
+      "sources": 19
+    },
+    {
+      "name": "admin-panel",
+      "n": 52,
+      "sources": 10
+    },
+    {
+      "name": "framework",
+      "n": 13,
+      "sources": 4
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 70,
+      "sources": 53
+    },
+    {
+      "name": "/.git/config",
+      "n": 55,
+      "sources": 36
+    },
+    {
+      "name": "/.env.production",
+      "n": 42,
+      "sources": 34
+    },
+    {
+      "name": "/.env.backup",
+      "n": 35,
+      "sources": 29
+    },
+    {
+      "name": "/.env.bak",
+      "n": 35,
+      "sources": 29
+    },
+    {
+      "name": "/.env.development",
+      "n": 34,
+      "sources": 29
+    },
+    {
+      "name": "/.env.local",
+      "n": 34,
+      "sources": 28
+    },
+    {
+      "name": "/.env.old",
+      "n": 33,
+      "sources": 27
+    },
+    {
+      "name": "/.env.dev",
+      "n": 30,
+      "sources": 27
+    },
+    {
+      "name": "/.env.save",
+      "n": 28,
+      "sources": 22
+    }
+  ],
+  "networks": [
+    {
+      "name": "Google LLC",
+      "n": 802,
+      "sources": 31
+    },
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 513,
+      "sources": 6
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 134,
+      "sources": 8
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 125,
+      "sources": 34
+    },
+    {
+      "name": "Amazon Data Services India",
+      "n": 60,
+      "sources": 3
+    },
+    {
+      "name": "Eweka Internet Services B.V.",
+      "n": 57,
+      "sources": 3
+    },
+    {
+      "name": "16 COLLYER QUAY",
+      "n": 40,
+      "sources": 1
+    },
+    {
+      "name": "TechTies Inc.",
+      "n": 37,
+      "sources": 3
+    },
+    {
+      "name": "1337 Services GmbH",
+      "n": 36,
+      "sources": 1
+    },
+    {
+      "name": "36/F, Tower Two,",
+      "n": 33,
+      "sources": 1
+    }
+  ],
+  "countryList": [
+    {
+      "name": "NL",
+      "n": 668,
+      "sources": 21
+    },
+    {
+      "name": "US",
+      "n": 305,
+      "sources": 31
+    },
+    {
+      "name": "BE",
+      "n": 215,
+      "sources": 10
+    },
+    {
+      "name": "PL",
+      "n": 153,
+      "sources": 8
+    },
+    {
+      "name": "AU",
+      "n": 141,
+      "sources": 3
+    },
+    {
+      "name": "SG",
+      "n": 137,
+      "sources": 17
+    },
+    {
+      "name": "DE",
+      "n": 99,
+      "sources": 8
+    },
+    {
+      "name": "IN",
+      "n": 60,
+      "sources": 3
+    },
+    {
+      "name": "TH",
+      "n": 40,
+      "sources": 1
+    },
+    {
+      "name": "FR",
+      "n": 39,
+      "sources": 3
+    }
+  ],
+  "users": []
+}
