@@ -39,8 +39,8 @@ The data comes from one website in Indonesia. It describes what a company websit
 Febrian, A. (2026). *Digimasi security research: weekly sensor records* (Version 1.3.0) [Data set]. Zenodo.
 https://doi.org/10.5281/zenodo.23655270
 
-That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.2.0:
-[10.5281/zenodo.23880967](https://doi.org/10.5281/zenodo.23880967)). [`CITATION.cff`](CITATION.cff) has the same
+That DOI always points to the latest version. To cite one exact version, use its own DOI (v1.3.0:
+[10.5281/zenodo.24154498](https://doi.org/10.5281/zenodo.24154498)). [`CITATION.cff`](CITATION.cff) has the same
 details for reference managers.
 
 The first release, v1.0.0 (the week of 12 October 2026), is archived as a separate Zenodo record, made before this
