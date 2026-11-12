@@ -17,8 +17,8 @@ abstract: >-
   that has none of them. Totals, categories, most requested paths, source networks and countries, and stock usernames
   guessed. No IP addresses, passwords or raw records are published.
 license: CC-BY-4.0
-version: "1.2.0"
-date-released: "2026-11-02"
+version: "1.3.0"
+date-released: "2026-11-12"
 keywords:
   - web scanning
   - internet background noise
