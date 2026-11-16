@@ -1,0 +1,212 @@
+{
+  "start": "2026-11-09",
+  "end": "2026-11-15",
+  "probes": 1519,
+  "sources": 75,
+  "countries": 21,
+  "loginGuesses": 0,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 745,
+      "sources": 36
+    },
+    {
+      "name": "php",
+      "n": 198,
+      "sources": 21
+    },
+    {
+      "name": "wordpress",
+      "n": 167,
+      "sources": 30
+    },
+    {
+      "name": "git",
+      "n": 144,
+      "sources": 29
+    },
+    {
+      "name": "backup",
+      "n": 115,
+      "sources": 9
+    },
+    {
+      "name": "config",
+      "n": 81,
+      "sources": 21
+    },
+    {
+      "name": "cloud-keys",
+      "n": 53,
+      "sources": 20
+    },
+    {
+      "name": "admin-panel",
+      "n": 10,
+      "sources": 3
+    },
+    {
+      "name": "framework",
+      "n": 6,
+      "sources": 4
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 43,
+      "sources": 32
+    },
+    {
+      "name": "/.env.local",
+      "n": 35,
+      "sources": 27
+    },
+    {
+      "name": "/.git/config",
+      "n": 33,
+      "sources": 20
+    },
+    {
+      "name": "/.env.backup",
+      "n": 29,
+      "sources": 21
+    },
+    {
+      "name": "/.env.bak",
+      "n": 28,
+      "sources": 20
+    },
+    {
+      "name": "/.env.production",
+      "n": 28,
+      "sources": 23
+    },
+    {
+      "name": "/.env.development",
+      "n": 27,
+      "sources": 21
+    },
+    {
+      "name": "/.env.old",
+      "n": 27,
+      "sources": 20
+    },
+    {
+      "name": "/.env.example",
+      "n": 26,
+      "sources": 20
+    },
+    {
+      "name": "/.env.save",
+      "n": 25,
+      "sources": 19
+    }
+  ],
+  "networks": [
+    {
+      "name": "Google LLC",
+      "n": 652,
+      "sources": 26
+    },
+    {
+      "name": "BESTDC LIMITED",
+      "n": 155,
+      "sources": 2
+    },
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 152,
+      "sources": 7
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 105,
+      "sources": 6
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 98,
+      "sources": 7
+    },
+    {
+      "name": "Microsoft Corporation",
+      "n": 81,
+      "sources": 5
+    },
+    {
+      "name": "Feo Prest SRL",
+      "n": 66,
+      "sources": 1
+    },
+    {
+      "name": "M247 LTD Paris Infrastructure",
+      "n": 36,
+      "sources": 2
+    },
+    {
+      "name": "36/F, Tower Two,",
+      "n": 33,
+      "sources": 1
+    },
+    {
+      "name": "Contabo GmbH",
+      "n": 33,
+      "sources": 1
+    }
+  ],
+  "countryList": [
+    {
+      "name": "NL",
+      "n": 477,
+      "sources": 17
+    },
+    {
+      "name": "BE",
+      "n": 301,
+      "sources": 12
+    },
+    {
+      "name": "US",
+      "n": 220,
+      "sources": 14
+    },
+    {
+      "name": "PL",
+      "n": 105,
+      "sources": 6
+    },
+    {
+      "name": "FR",
+      "n": 92,
+      "sources": 5
+    },
+    {
+      "name": "CL",
+      "n": 60,
+      "sources": 2
+    },
+    {
+      "name": "ES",
+      "n": 40,
+      "sources": 1
+    },
+    {
+      "name": "GB",
+      "n": 40,
+      "sources": 1
+    },
+    {
+      "name": "SG",
+      "n": 38,
+      "sources": 4
+    },
+    {
+      "name": "TW",
+      "n": 21,
+      "sources": 1
+    }
+  ],
+  "users": []
+}
