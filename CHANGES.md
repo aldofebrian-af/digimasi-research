@@ -2,6 +2,11 @@
 
 What changed in this data set and how it is counted, newest first. Dates are Jakarta time (UTC+7).
 
+## 2026-11-23: version 1.5.0
+
+- New week: `weekly/2026-11-16.json` and `.md` (16 to 22 November 2026).
+- `CITATION.cff`: version 1.5.0, released 2026-11-23.
+
 ## 2026-11-16: version 1.4.0
 
 - New week: `weekly/2026-11-09.json` and `.md` (9 to 15 November 2026).
