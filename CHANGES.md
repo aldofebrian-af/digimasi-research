@@ -6,6 +6,7 @@ What changed in this data set and how it is counted, newest first. Dates are Jak
 
 - New week: `weekly/2026-11-16.json` and `.md` (16 to 22 November 2026).
 - `CITATION.cff`: version 1.5.0, released 2026-11-23.
+- Zenodo: v1.5.0 is 10.5281/zenodo.24453447; the all-versions DOI stays 10.5281/zenodo.23655270.
 
 ## 2026-11-16: version 1.4.0
 
