@@ -1,0 +1,212 @@
+{
+  "start": "2026-11-16",
+  "end": "2026-11-22",
+  "probes": 1887,
+  "sources": 115,
+  "countries": 30,
+  "loginGuesses": 19,
+  "kinds": [
+    {
+      "name": "env-file",
+      "n": 883,
+      "sources": 51
+    },
+    {
+      "name": "config",
+      "n": 223,
+      "sources": 27
+    },
+    {
+      "name": "wordpress",
+      "n": 219,
+      "sources": 62
+    },
+    {
+      "name": "php",
+      "n": 164,
+      "sources": 25
+    },
+    {
+      "name": "git",
+      "n": 163,
+      "sources": 43
+    },
+    {
+      "name": "backup",
+      "n": 92,
+      "sources": 17
+    },
+    {
+      "name": "cloud-keys",
+      "n": 74,
+      "sources": 21
+    },
+    {
+      "name": "admin-panel",
+      "n": 47,
+      "sources": 8
+    },
+    {
+      "name": "framework",
+      "n": 22,
+      "sources": 10
+    }
+  ],
+  "paths": [
+    {
+      "name": "/.env",
+      "n": 56,
+      "sources": 49
+    },
+    {
+      "name": "/.git/config",
+      "n": 40,
+      "sources": 31
+    },
+    {
+      "name": "/.env.local",
+      "n": 38,
+      "sources": 35
+    },
+    {
+      "name": "/.env.production",
+      "n": 35,
+      "sources": 33
+    },
+    {
+      "name": "/.env.backup",
+      "n": 32,
+      "sources": 30
+    },
+    {
+      "name": "/.env.bak",
+      "n": 32,
+      "sources": 30
+    },
+    {
+      "name": "/.env.old",
+      "n": 31,
+      "sources": 29
+    },
+    {
+      "name": "/.env.development",
+      "n": 29,
+      "sources": 27
+    },
+    {
+      "name": "/.env.save",
+      "n": 29,
+      "sources": 27
+    },
+    {
+      "name": "/.env.dev",
+      "n": 26,
+      "sources": 25
+    }
+  ],
+  "networks": [
+    {
+      "name": "Google LLC",
+      "n": 749,
+      "sources": 20
+    },
+    {
+      "name": "TECHOFF SRV LIMITED",
+      "n": 289,
+      "sources": 5
+    },
+    {
+      "name": "TC DATACENTER LIMITED MANAGED IP SPACE",
+      "n": 152,
+      "sources": 7
+    },
+    {
+      "name": "DigitalOcean, LLC",
+      "n": 133,
+      "sources": 25
+    },
+    {
+      "name": "Internet",
+      "n": 93,
+      "sources": 1
+    },
+    {
+      "name": "Microsoft Corporation",
+      "n": 84,
+      "sources": 2
+    },
+    {
+      "name": "Amazon Technologies Inc.",
+      "n": 61,
+      "sources": 3
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "n": 60,
+      "sources": 3
+    },
+    {
+      "name": "1337 Services GmbH",
+      "n": 36,
+      "sources": 1
+    },
+    {
+      "name": "Cloudflare, Inc.",
+      "n": 26,
+      "sources": 4
+    }
+  ],
+  "countryList": [
+    {
+      "name": "BE",
+      "n": 602,
+      "sources": 14
+    },
+    {
+      "name": "NL",
+      "n": 347,
+      "sources": 10
+    },
+    {
+      "name": "US",
+      "n": 157,
+      "sources": 20
+    },
+    {
+      "name": "PL",
+      "n": 152,
+      "sources": 7
+    },
+    {
+      "name": "DE",
+      "n": 151,
+      "sources": 10
+    },
+    {
+      "name": "SG",
+      "n": 91,
+      "sources": 10
+    },
+    {
+      "name": "GB",
+      "n": 82,
+      "sources": 5
+    },
+    {
+      "name": "CL",
+      "n": 80,
+      "sources": 3
+    },
+    {
+      "name": "HK",
+      "n": 64,
+      "sources": 1
+    },
+    {
+      "name": "FR",
+      "n": 38,
+      "sources": 3
+    }
+  ],
+  "users": []
+}
